@@ -1,0 +1,5 @@
+name: 'amd_blocks'
+type: module
+description: 'First module created'
+package: Custom
+core_version_requirement: ^10 || ^11
